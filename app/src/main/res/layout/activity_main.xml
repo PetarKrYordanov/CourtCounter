@@ -52,7 +52,8 @@
                 android:gravity="top|center"
                 android:onClick="addOneForTeamA"
                 android:text="goal"
-                android:textColor="@color/colorPrimaryDark" />
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -88,7 +89,8 @@
                 android:gravity="top|center"
                 android:onClick="addOneFoulForTeamA"
                 android:text="foul"
-                android:textColor="@color/colorPrimaryDark" />
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp" />
         </LinearLayout>
 
         <View
@@ -135,7 +137,8 @@
                 android:gravity="top|center"
                 android:onClick="addOneForTeamB"
                 android:text="goal"
-                android:textColor="@color/colorAccent" />
+                android:textColor="@color/colorAccent"
+                android:textSize="18sp" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -169,7 +172,8 @@
                 android:gravity="top|center"
                 android:onClick="addOneFoulForTeamB"
                 android:text="foul"
-                android:textColor="@color/colorAccent" />
+                android:textColor="@color/colorAccent"
+                android:textSize="18sp" />
         </LinearLayout>
     </LinearLayout>
 
