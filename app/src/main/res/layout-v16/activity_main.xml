@@ -28,7 +28,7 @@
                 android:padding="12dp"
                 android:text="Team A"
                 android:textColor="@color/colorPrimaryDark"
-                android:textSize="14sp" />
+                android:textSize="18sp" />
 
             <TextView
                 android:id="@+id/team_a_score"
@@ -64,7 +64,7 @@
                 android:padding="12dp"
                 android:text="Fouls Team A "
                 android:textColor="@color/colorPrimaryDark"
-                android:textSize="14sp" />
+                android:textSize="18sp" />
 
             <TextView
                 android:id="@+id/team_a_fouls"
@@ -113,7 +113,7 @@
                 android:padding="12dp"
                 android:text="Team B"
                 android:textColor="@color/colorAccent"
-                android:textSize="14sp" />
+                android:textSize="18sp" />
 
             <TextView
                 android:id="@+id/team_b_score"
@@ -149,7 +149,7 @@
                 android:padding="12dp"
                 android:text="Fouls Team B"
                 android:textColor="@color/colorAccent"
-                android:textSize="14sp" />
+                android:textSize="18sp" />
 
             <TextView
                 android:id="@+id/team_b_fouls"
